@@ -1,16 +1,14 @@
-## Hi there 👋
+# [Sandeep T R] 👋
 
-<!--
-**Sandeep131999/Sandeep131999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 I'm currently working at [SYSTEM CONSULTANT INFORMATION INDIA]
+- 📚 I'm currently learning [Python]
+- 🎮 I'm currently playing [Cricket]
+- 📫 How to reach me:
+  - EmailId: [sandeepa13.1999@gmail.com]
+  - Contact: [+91 9206754274]
 
-Here are some ideas to get you started:
+## GitHub Stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep131999&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep131999&layout=compact&theme=default)
