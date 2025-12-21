@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" width="170" style="border-radius:50%">
+</p>
+
 # [Sandeep T R] 👋
 
 - 🌐 I'm currently working at [SYSTEM CONSULTANT INFORMATION INDIA]
