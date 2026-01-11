@@ -1,19 +1,18 @@
-# Hi, I'm Sandeep T R 💻
+# Hi, I'm Sandeep T R 👨‍💻
 
 <p align="left">
-  AI Developer | Python Learner
+  Applied AI Engineer | .NET Full Stack Developer
 </p>
 
 ### 🌐 Currently Working At
 **SYSTEM CONSULTANT INFORMATION INDIA**
 
 ### 📚 Currently Learning
-**Python** | Preparing for AI Engineer Role
+**Python** | Preparing for Applied AI Engineer Role
 
 ### 📫 How to Reach Me
 - **Email:** [sandeepa13.1999@gmail.com](mailto:sandeepa13.1999@gmail.com)  
 - **Phone:** [+91 9206754274](tel:+919206754274)
-
 
 ### 💼 Connect With Me
 <p align="left">
