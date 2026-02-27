@@ -7,8 +7,6 @@
 ### 🌐 Currently Working At
 **SYSTEM CONSULTANT INFORMATION INDIA**
 
-### 📚 Currently Learning
-**Python** | Preparing for Applied AI Engineer Role
 
 ### 📫 How to Reach Me
 - **Email:** [sandeepa13.1999@gmail.com](mailto:sandeepa13.1999@gmail.com)  
