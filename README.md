@@ -1,7 +1,7 @@
 # Hi, I'm Sandeep T R 👨‍💻
 
 <p align="left">
-  Applied AI Engineer | .NET Full Stack Developer
+  🎯 Generative AI engineer
 </p>
 
 ### 🌐 Currently Working At
